@@ -1,0 +1,42 @@
+{
+  "name": "ansi-colors-prioritized",
+  "version": "0.1.0",
+  "description": "Enables prioritized and nested coloring of texts",
+  "main": "index.js",
+  "files:": [
+    "index.js"
+  ],
+  "scripts": {
+    "lint": "eslint .",
+    "test": "mocha",
+    "coverage": "nyc --reporter=lcov --reporter=text-summary npm test",
+    "coveralls": "nyc --reporter=text-lcov npm test | coveralls"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sttk/ansi-colors-prioritized.git"
+  },
+  "keywords": [
+    "color",
+    "ansi",
+    "nest",
+    "prioritize"
+  ],
+  "author": "Takayuki Sato",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sttk/ansi-colors-prioritized/issues"
+  },
+  "homepage": "https://github.com/sttk/ansi-colors-prioritized#readme",
+  "devDependencies": {
+    "ansi-colors": "^1.0.1",
+    "chai": "^3.5.0",
+    "coveralls": "^3.0.0",
+    "eslint": "^4.11.0",
+    "mocha": "^3.4.2",
+    "nyc": "^11.3.0"
+  },
+  "dependencies": {
+    "ansi-colors-nestable": "github:sttk/ansi-colors-nestable"
+  }
+}
