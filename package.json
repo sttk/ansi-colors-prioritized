@@ -37,6 +37,6 @@
     "nyc": "^11.3.0"
   },
   "dependencies": {
-    "ansi-colors-nestable": "github:sttk/ansi-colors-nestable"
+    "ansi-colors-nestable": "^0.1.0"
   }
 }
