@@ -1,4 +1,4 @@
-# [ansi-colors-prioritized][repo-url] [![MIT License][mit-img]][mit-url] [![Build Status][travis-img]][travis-url] [![Build Status][appveyor-img]][appveyor-url] [![Coverage Status][coverage-img]][coverage-url]
+# [ansi-colors-prioritized][repo-url] [![NPM][npm-img]][npm-url] [![MIT License][mit-img]][mit-url] [![Build Status][travis-img]][travis-url] [![Build Status][appveyor-img]][appveyor-url] [![Coverage Status][coverage-img]][coverage-url]
 
 
 Enables prioritized and nestable coloring of texts using [ansi-colors][ansi-colors-url].
