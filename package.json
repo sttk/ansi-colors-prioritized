@@ -3,7 +3,7 @@
   "version": "0.1.1",
   "description": "Enables prioritized and nested coloring of texts",
   "main": "index.js",
-  "files:": [
+  "files": [
     "index.js"
   ],
   "scripts": {
