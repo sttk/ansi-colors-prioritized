@@ -1,6 +1,6 @@
 {
   "name": "ansi-colors-prioritized",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Enables prioritized and nested coloring of texts",
   "main": "index.js",
   "files": [
