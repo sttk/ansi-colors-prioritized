@@ -14,7 +14,7 @@ $ npm install ansi-colors-prioritized --save-dev
 ## Usage
 
 ```js
-const prioritizedColor = require('ansi-color-prioritized');
+const prioritizedColor = require('ansi-colors-prioritized');
 
 const chaik = require('chalk');
 const ansiColors = require('ansi-colors');
