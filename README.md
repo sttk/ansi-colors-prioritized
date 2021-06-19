@@ -14,7 +14,7 @@ $ npm install ansi-colors-prioritized --save-dev
 ## Usage
 
 ```js
-const prioritizedColor = require('ansi-color-prioritized');
+const prioritizedColor = require('ansi-colors-prioritized');
 
 const chaik = require('chalk');
 const ansiColors = require('ansi-colors');
@@ -67,7 +67,7 @@ See the file LICENSE in this distribution for more details.
 [npm-img]: https://img.shields.io/badge/npm-v0.1.2-blue.svg
 [npm-url]: https://www.npmjs.org/package/ansi-colors-prioritized/
 [mit-img]: https://img.shields.io/badge/license-MIT-green.svg
-[mit-url]: https://opensource.org/licenses.MIT
+[mit-url]: https://opensource.org/licenses/MIT
 [travis-img]: https://travis-ci.org/sttk/ansi-colors-prioritized.svg?branch=master
 [travis-url]: https://travis-ci.org/sttk/ansi-colors-prioritized
 [appveyor-img]: https://ci.appveyor.com/api/projects/status/github/sttk/ansi-colors-prioritized?branch=master&svg=true
